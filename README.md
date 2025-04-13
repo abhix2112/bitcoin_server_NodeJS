@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2ed09d81-b6af-43b4-b2e2-60c1bf860a5d)# 🔐 Solana Wallet Generator (React + Chakra UI + BIP39)
+🔐 Solana Wallet Generator (React + Chakra UI + BIP39)
 
 A sleek and secure Solana wallet generator built with **React**, **Chakra UI**, **Framer Motion**, and **Solana Web3.js**. Generate HD wallets, view public/private keys, and manage your seed phrase with ease.
 
